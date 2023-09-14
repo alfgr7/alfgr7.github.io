@@ -1,36 +1,4 @@
-.header {
-    background-color: #333;
-    overflow: hidden;
-}
 
-.header ul {
-    list-style-type: none;
-    margin: 10px;
-    padding: 10px;
-}
-
-.header .other {
-    float: left;
-}
-.header a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-.header a:hover {
-    background-color: #877e7e;
-    color: black;
-}
-
-.header .us{
-    color: yellow;
-    background-color: gray;
-    border-radius: 10px;
-    float: right;
-    margin-bottom: 15px;
-}
 
 .front-page img{
 width: 100%;
@@ -61,5 +29,6 @@ position: relative;
     display: block;
     text-align: center;
     margin: 0 auto;
-  }
-  
+}
+
+

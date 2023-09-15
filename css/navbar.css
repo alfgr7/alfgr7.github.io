@@ -26,18 +26,11 @@
     color: black;
 }
 
-.header .us{
+.header .us {
     color: yellow;
     background-color: gray;
     border-radius: 15px;
     float: right;
     margin-bottom: 15px;
-}
-.header .home{
-    position: relative;
-    right: 10%;
-    float: right;
-    background-color: gray;
-    border-radius: 15px;
-    right: 10px;
+    margin-right: 10px;
 }

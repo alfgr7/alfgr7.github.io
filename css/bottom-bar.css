@@ -1,0 +1,14 @@
+.bottom-bar{
+    background-color: rgb(6, 111, 123);
+    padding: 20px;
+    text-align: center;
+}
+
+.bottom-bar .info{
+    position: relative;
+    bottom: 10px;
+    left: 530px;
+    font-size: smaller;
+    width: 200px;
+    font-family: 'Roboto', sans-serif;
+}

@@ -1,11 +1,9 @@
-
-
 .front-page img{
-width: 100%;
-height: auto;
-position: relative;
+    width: 100%;
+    height: auto;
+
 }
-.front-page .text{
+.front-page h1{
     position: absolute;
     top: 30%;
     left: 50%; 
@@ -13,10 +11,9 @@ position: relative;
     background-color: rgba(51, 49, 49, 0.624);
     color: white;
     padding: 10px; 
-    border-radius: 5px; 
-    
+    border-radius: 5px;
 }
-.front-page .par {
+.front-page p{
     position: absolute;
     top: 45%;
     left: 50%; 
@@ -26,11 +23,3 @@ position: relative;
     padding: 10px; 
     border-radius: 5px; 
 }
-.front-page .centered-text {
-    display: block;
-    text-align: center;
-    margin: 0 auto;
-}
-
-
-

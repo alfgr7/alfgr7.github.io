@@ -1,0 +1,25 @@
+.front-page img{
+    width: 100%;
+    height: auto;
+
+}
+.front-page h1{
+    position: absolute;
+    top: 30%;
+    left: 50%; 
+    transform: translate(-50%, -50%);
+    background-color: rgba(51, 49, 49, 0.624);
+    color: white;
+    padding: 10px; 
+    border-radius: 5px;
+}
+.front-page p{
+    position: absolute;
+    top: 45%;
+    left: 50%; 
+    transform: translate(-50%, -50%);
+    background-color: rgba(23, 23, 23, 0.624); 
+    color: white;
+    padding: 10px; 
+    border-radius: 5px; 
+}

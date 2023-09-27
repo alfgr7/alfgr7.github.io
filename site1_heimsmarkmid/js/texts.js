@@ -6,7 +6,7 @@ function readFile(file, tag) {
         fetch(file)
             .then(response => response.text())
             .then(data => {
-                outputH1.textContent = data;
+                outputH1.innerHTML = data;
             })
     });
 }
